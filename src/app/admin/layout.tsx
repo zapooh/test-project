@@ -16,3 +16,4 @@ const AdminLayout = ({ children }: Props) => {
 };
 
 export default AdminLayout;
+
